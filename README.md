@@ -1,1 +1,2 @@
-# 0x11. C - printf project
+# The printf 'group' project made by Othmane & Redouan .
+
